@@ -4,7 +4,7 @@ import { Link, Outlet } from "react-router-dom";
 
 const AboutUs = () => {
   return (
-    <div className="about-container">
+    <div className="abouts-container">
       <h2>About Our Electronic Store</h2>
       <p>
         Welcome to our E-Commerce platform, your one-stop shop for the latest and greatest in electronics!
